@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Flower",
   "base_artist": "Yo-Sea",
-  "createdAt": "2026-01-09T14:58:39.272131Z",
+  "createdAt": "2026-03-28T09:13:59.562671Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,6 +155,15 @@
       "artist": "Yo-Sea",
       "has_synced": false,
       "path": "select/pl_01_Flower_Yo-Sea.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Flower",
+      "artist": "Yo-Sea",
+      "has_synced": false,
+      "path": "select/localdb_01_Flower_Yo-Sea.txt",
+      "repo_name": "MCxafsjJTB0"
     }
   ]
 }
